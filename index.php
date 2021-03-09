@@ -18,7 +18,7 @@
     }
     $books=array('The Vanishing Half'=>'Brit Bennett','American Dirt'=>' Jeanine Cummins');
     foreach($books as $key => $value) {
-        $booksArray.= "<a id='fett' style='font-weight:bold'>" . $key . "</a>  : " . $value.'<br>';
+        $booksArray.= "<a><a id='fett'>" . $key . "</a>  : " . $value.'</a><br>';
     }
     ?>
     
