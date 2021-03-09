@@ -1,3 +1,7 @@
 body{
     background-color: #ccc;
 }
+#fett{
+    color: blue;
+    font-weight: 900
+}
